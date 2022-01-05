@@ -1,3 +1,6 @@
+![Matin's github stats](https://github-readme-stats.vercel.app/api?username=chillmetin&theme=github_dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chillmetin&layout=compact&theme=github_dark&card_width=445)
+
 ### Hi there 👋
 
 <!--
@@ -23,5 +26,4 @@ I am Matin :raising_hand_man:
   - :camera: [My photography gallery](https://flic.kr/ps/3W8H1A)
   - :briefcase:	[LinkedIn](https://www.linkedin.com/in/chillmetin/)
 
-![Matin's github stats](https://github-readme-stats.vercel.app/api?username=chillmetin&theme=github_dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chillmetin&layout=compact&theme=github_dark&card_width=445)
+
