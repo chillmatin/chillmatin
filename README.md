@@ -10,5 +10,4 @@ Senior Computer Engineering student at [Izmir Institute of Technology](https://c
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/chillmatin/)
-- [email](mailto:matinhuseynzade@gmail.com
-- [
+- [email](mailto:matinhuseynzade@gmail.com)
