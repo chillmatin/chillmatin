@@ -1,5 +1,5 @@
 # Matin Huseynzade
-Software Engineer at [İzmir İnovasyon ve Teknoloji A.Ş.](https://www.izmirteknoloji.com.tr/), an affiliate of the [Izmir Metropolitan Municipality](https://www.izmir.bel.tr/).
+Computer Engineering B. Sc. Graduate from [Izmir Institute of Technology](https://en.iyte.edu.tr/)
 
 Over the course of 8 years, I have developed expertise in diverse areas of computer science, including web development, cybersecurity, heterogeneous parallel computation systems, machine learning, and open-source software.
 
