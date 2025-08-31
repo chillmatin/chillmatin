@@ -5,8 +5,6 @@ Over the course of 8 years, I have developed expertise in diverse areas of compu
 
 I have also been actively involved in volunteer work—translating for [Khan Academy Azerbaijani](https://az.khanacademy.org/), participating in university communities, and serving as chairperson in the [IZTECH IEEE Computer Society](https://ieee.iyte.edu.tr/komiteler/computer-society/) for a school year.
 
-Senior Computer Engineering student at [Izmir Institute of Technology](https://ceng.iyte.edu.tr/).
-
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/chillmatin/)
